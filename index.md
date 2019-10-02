@@ -489,7 +489,6 @@ please preview your site before committing, and make sure to run
       <li role="presentation"><a data-os="macos" href="#editor-macos" aria-controls="MacOS" role="tab" data-toggle="tab">MacOS</a></li>
       <li role="presentation"><a data-os="linux" href="#editor-linux" aria-controls="Linux" role="tab" data-toggle="tab">Linux</a></li>
     </ul>
- </div>
     <div class="tab-content">
       <article role="tabpanel" class="tab-pane active" id="editor-windows">
         <p>
@@ -550,7 +549,6 @@ please preview your site before committing, and make sure to run
       <li role="presentation"><a data-os="macos" href="#rstats-macos" aria-controls="MacOS" role="tab" data-toggle="tab">MacOS</a></li>
       <li role="presentation"><a data-os="linux" href="#rstats-linux" aria-controls="Linux" role="tab" data-toggle="tab">Linux</a></li>
     </ul>
-  </div>
     <div class="tab-content">
       <article role="tabpanel" class="tab-pane active" id="rstats-windows">
         <a href="https://www.youtube.com/watch?v=q0PjTAylwoU">Video Tutorial</a>
